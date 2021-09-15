@@ -1,0 +1,2792 @@
+[
+    {
+        "StudentID": "2016072",
+        "LastName": "Adamo",
+        "FirstName": "Jacqueline",
+        "Nickname": "Jackie",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-08-21T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jadamo@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017081",
+        "LastName": "Adelman",
+        "FirstName": "Esmé",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-11-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "eadelman@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010001",
+        "LastName": "Ahmed",
+        "FirstName": "Izza Eiman",
+        "Nickname": "Izza",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "iahmed@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016007",
+        "LastName": "Alam",
+        "FirstName": "Tanisha",
+        "Nickname": "Tanisha",
+        "Grade": "Grade 12",
+        "BIrthdate": "2003-09-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "talam@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020015",
+        "LastName": "Alsyed",
+        "FirstName": "Anam",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-09-28T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "aalsyed@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016300",
+        "LastName": "Annette",
+        "FirstName": "Christiana",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-18T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "cannette@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020225",
+        "LastName": "Appelt",
+        "FirstName": "Aspen",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "aappelt@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020225",
+        "LastName": "Appelt",
+        "FirstName": "Aspen",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "aappelt@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017083",
+        "LastName": "Barnard",
+        "FirstName": "Zoë",
+        "Nickname": "Zoë",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-17T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "zbarnard@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016042",
+        "LastName": "Baxter",
+        "FirstName": "Faith",
+        "Nickname": "Faith",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-01-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "fbaxter@branksome.on.ca"
+    },
+    {
+        "StudentID": "2008092",
+        "LastName": "Belsher",
+        "FirstName": "Delaney Rose",
+        "Nickname": "Delaney",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-27T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "dbelsher@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016257",
+        "LastName": "Bhaloo",
+        "FirstName": "Mila",
+        "Nickname": "Mila",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mbhaloo@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019134",
+        "LastName": "Bian",
+        "FirstName": "Fiona",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-26T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "fbian@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019134",
+        "LastName": "Bian",
+        "FirstName": "Fiona",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-26T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "fbian@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017085",
+        "LastName": "Blott",
+        "FirstName": "Amelia",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-05-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ablott@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016255",
+        "LastName": "Blundell",
+        "FirstName": "Katarina",
+        "Nickname": "Kat",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kblundell@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017086",
+        "LastName": "Boriss",
+        "FirstName": "Olivia",
+        "Nickname": "Olive",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-05T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "oboriss@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017087",
+        "LastName": "Boyd",
+        "FirstName": "Olivia",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-23T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "oboyd@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012040",
+        "LastName": "Buck",
+        "FirstName": "Alix",
+        "Nickname": "Alix",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-12-29T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "abuck@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018197",
+        "LastName": "Bustamante Arroyo",
+        "FirstName": "Montserrat",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2002-10-28T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "mbustamantearroyo@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018197",
+        "LastName": "Bustamante Arroyo",
+        "FirstName": "Montserrat",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2002-10-28T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "mbustamantearroyo@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013220",
+        "LastName": "Cai",
+        "FirstName": "Xin Yue",
+        "Nickname": "Cristine",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-18T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ycai@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020035",
+        "LastName": "Cai",
+        "FirstName": "YiXuan",
+        "Nickname": "Nina",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-08-30T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ncai@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016044",
+        "LastName": "Cambone",
+        "FirstName": "Carina",
+        "Nickname": "Carina",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-06-01T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ccambone@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012041",
+        "LastName": "Carragher",
+        "FirstName": "Victoria",
+        "Nickname": "Tori",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-18T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "tcarragher@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017088",
+        "LastName": "Cassidy",
+        "FirstName": "Airlie",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-08-11T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "acassidy@branksome.on.ca"
+    },
+    {
+        "StudentID": "2021231",
+        "LastName": "Chan",
+        "FirstName": "Katrina Ka Ching",
+        "Nickname": "Kat",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-22T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "kchan2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019031",
+        "LastName": "Chen",
+        "FirstName": "Maryann",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mchen2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019031",
+        "LastName": "Chen",
+        "FirstName": "Maryann",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mchen2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017090",
+        "LastName": "Chen-Der",
+        "FirstName": "Alexandra",
+        "Nickname": "Allie",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-06T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "achender@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010119",
+        "LastName": "Cheng",
+        "FirstName": "Amber Lane",
+        "Nickname": "Amber",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-28T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "acheng@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019138",
+        "LastName": "Choi",
+        "FirstName": "Buyoung",
+        "Nickname": "Olivia",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-01T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ochoi@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019138",
+        "LastName": "Choi",
+        "FirstName": "Buyoung",
+        "Nickname": "Olivia",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-01T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ochoi@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020222",
+        "LastName": "Choi",
+        "FirstName": "Valerie Shu Ning",
+        "Nickname": "Val",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-11-30T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "vchoi@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020222",
+        "LastName": "Choi",
+        "FirstName": "Valerie Shu Ning",
+        "Nickname": "Val",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-11-30T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "vchoi@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016252",
+        "LastName": "Colville-Reeves",
+        "FirstName": "Rebecca",
+        "Nickname": "Becca",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-20T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "rcolvillereeves@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013197",
+        "LastName": "Culham",
+        "FirstName": "Dominique Amelia",
+        "Nickname": "Dominique",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-04-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "dculham@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016249",
+        "LastName": "Currie",
+        "FirstName": "Stella",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-08T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "scurrie@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017092",
+        "LastName": "Curry",
+        "FirstName": "Grace",
+        "Nickname": "Grace",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-01-05T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "gcurry@branksome.on.ca"
+    },
+    {
+        "StudentID": "2015246",
+        "LastName": "Dawson",
+        "FirstName": "Sofia",
+        "Nickname": "Sofia",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "sdawson2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018024",
+        "LastName": "de Fazekas",
+        "FirstName": "Olivia",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-10T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "odefazekas2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018024",
+        "LastName": "de Fazekas",
+        "FirstName": "Olivia",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-10T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "odefazekas2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017095",
+        "LastName": "De Luca Vari",
+        "FirstName": "Anna-Sophia",
+        "Nickname": "Sophia",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-03-05T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "adelucavari@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016046",
+        "LastName": "Doi",
+        "FirstName": "Anne",
+        "Nickname": "Anne",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "adoi@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016047",
+        "LastName": "Dong",
+        "FirstName": "Liuhan",
+        "Nickname": "Liuhan",
+        "Grade": "Grade 12",
+        "BIrthdate": "2003-12-11T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ldong2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2014230",
+        "LastName": "Dreger",
+        "FirstName": "Adelaide Neve",
+        "Nickname": "Lulu",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-01-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ldreger@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016048",
+        "LastName": "Duncanson",
+        "FirstName": "Katherine",
+        "Nickname": "Kate",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kduncanson@branksome.on.ca"
+    },
+    {
+        "StudentID": "2021148",
+        "LastName": "Dunn",
+        "FirstName": "Danielle-Mara",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-17T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ddunn@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017098",
+        "LastName": "Egge",
+        "FirstName": "Katherine",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-10-08T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kegge@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020039",
+        "LastName": "Eldon",
+        "FirstName": "Lily",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-07T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "leldon@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020039",
+        "LastName": "Eldon",
+        "FirstName": "Lily",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-07T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "leldon@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016049",
+        "LastName": "Elkhouly",
+        "FirstName": "Dahlia",
+        "Nickname": "Dahlia",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "delkhouly@branksome.on.ca"
+    },
+    {
+        "StudentID": "2021149",
+        "LastName": "Elrington",
+        "FirstName": "Jadzia",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-12T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jelrington@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009021",
+        "LastName": "Erickson",
+        "FirstName": "Cicely Torry",
+        "Nickname": "Cicely",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-08T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cerickson@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016050",
+        "LastName": "Etherington",
+        "FirstName": "Kaya",
+        "Nickname": "Kaya",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ketherington@branksome.on.ca"
+    },
+    {
+        "StudentID": "2011084",
+        "LastName": "Eysenbach",
+        "FirstName": "Lily",
+        "Nickname": "Lily",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-09-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "leysenbach@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017099",
+        "LastName": "Fanaki",
+        "FirstName": "Ava",
+        "Nickname": "Ava",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "afanaki@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010137",
+        "LastName": "Fang",
+        "FirstName": "Ashley Zijia",
+        "Nickname": "Ashley",
+        "Grade": "Grade 12",
+        "BIrthdate": "2005-01-14T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "afang@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019142",
+        "LastName": "Farkas",
+        "FirstName": "Sophie",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-05T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "sfarkas@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019142",
+        "LastName": "Farkas",
+        "FirstName": "Sophie",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-05T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "sfarkas@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018026",
+        "LastName": "Feeney",
+        "FirstName": "Hannah",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-01-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "hfeeney@branksome.on.ca"
+    },
+    {
+        "StudentID": "2014231",
+        "LastName": "Fisher Holy",
+        "FirstName": "Ruby",
+        "Nickname": "Ruby",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-11-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "rfisherholy@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018002",
+        "LastName": "Florez Camacho",
+        "FirstName": "Valeria Michelle",
+        "Nickname": "Valeria",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-25T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "vflorezcamacho@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017102",
+        "LastName": "Frei",
+        "FirstName": "Natalia",
+        "Nickname": "Natalia",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-26T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "nfrei@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016246",
+        "LastName": "Friesen",
+        "FirstName": "Cayden",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cfriesen@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009001",
+        "LastName": "Ghai",
+        "FirstName": "Pritika",
+        "Nickname": "Pritika",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-01-30T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "pghai@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010023",
+        "LastName": "Giamos",
+        "FirstName": "Helena Marie",
+        "Nickname": "Helena",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-04-25T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "hgiamos@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020241",
+        "LastName": "Giancos",
+        "FirstName": "Alexandra",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-29T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "agiancos@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020241",
+        "LastName": "Giancos",
+        "FirstName": "Alexandra",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-29T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "agiancos@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017104",
+        "LastName": "Glover",
+        "FirstName": "Aletheia",
+        "Nickname": "Thea",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-10-29T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "tglover@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009093",
+        "LastName": "Goddard",
+        "FirstName": "Sophia Anna Louisa",
+        "Nickname": "Sophia",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-08T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "sgoddard@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020012",
+        "LastName": "Gohar",
+        "FirstName": "Fatima",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-03-13T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "fgohar@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019144",
+        "LastName": "Graves",
+        "FirstName": "Katherine",
+        "Nickname": "Katy",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-09-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kgraves2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019144",
+        "LastName": "Graves",
+        "FirstName": "Katherine",
+        "Nickname": "Katy",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-09-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kgraves2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2008029",
+        "LastName": "Gray",
+        "FirstName": "Charlotte Amelia",
+        "Nickname": "Charlotte",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cgray@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018027",
+        "LastName": "Grierson",
+        "FirstName": "Kaitlin",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-27T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kgrierson@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018028",
+        "LastName": "Grierson",
+        "FirstName": "Lauren",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-27T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "lgrierson@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017105",
+        "LastName": "Griffiths",
+        "FirstName": "Lily",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-23T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "lgriffiths@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017106",
+        "LastName": "Grivakis",
+        "FirstName": "Alexia",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-08-27T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "agrivakis@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016243",
+        "LastName": "Groenewegen",
+        "FirstName": "Jacqueline",
+        "Nickname": "Jacquie",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-04-20T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jgroenewegen@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017107",
+        "LastName": "Guerrero",
+        "FirstName": "Michelle",
+        "Nickname": "Michelle",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-05-22T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mguerrero@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020037",
+        "LastName": "Guo",
+        "FirstName": "Zicheng",
+        "Nickname": "Helen",
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-05-17T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "hguo@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019007",
+        "LastName": "Haider",
+        "FirstName": "Alizah",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-12-13T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "ahaider@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019007",
+        "LastName": "Haider",
+        "FirstName": "Alizah",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-12-13T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "ahaider@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019192",
+        "LastName": "Han",
+        "FirstName": "Ruobing",
+        "Nickname": "Cindy",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-01-27T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "chan@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017225",
+        "LastName": "Hannam",
+        "FirstName": "Jessica",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-23T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jhannam@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017108",
+        "LastName": "Hartley",
+        "FirstName": "Aislyn",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-28T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ahartley@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016051",
+        "LastName": "Headrick",
+        "FirstName": "Brooke",
+        "Nickname": "Brooke",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-14T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "bheadrick@branksome.on.ca"
+    },
+    {
+        "StudentID": "2011027",
+        "LastName": "Helman",
+        "FirstName": "Lola",
+        "Nickname": "Lola",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-04-27T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "lhelman@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018030",
+        "LastName": "Hess",
+        "FirstName": "Alison",
+        "Nickname": "Ali",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-20T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ahess2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018031",
+        "LastName": "Himsworth",
+        "FirstName": "Sophie",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-01T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "shimsworth@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018031",
+        "LastName": "Himsworth",
+        "FirstName": "Sophie",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-01T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "shimsworth@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019145",
+        "LastName": "Hribar",
+        "FirstName": "Sarah",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-09-19T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "shribar@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019145",
+        "LastName": "Hribar",
+        "FirstName": "Sarah",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-09-19T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "shribar@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017001",
+        "LastName": "Huang",
+        "FirstName": "Sile",
+        "Nickname": "Nicole",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-06-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "shuang@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020243",
+        "LastName": "Hubbard",
+        "FirstName": "Rachel",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-07T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "rhubbard@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020243",
+        "LastName": "Hubbard",
+        "FirstName": "Rachel",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-07T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "rhubbard@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009099",
+        "LastName": "Huebel",
+        "FirstName": "Katrina Emma",
+        "Nickname": "Katrina",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "khuebel@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017154",
+        "LastName": "Iqbal",
+        "FirstName": "Zubana",
+        "Nickname": "Zubana",
+        "Grade": "Grade 12",
+        "BIrthdate": "2003-12-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ziqbal@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017112",
+        "LastName": "Ismail",
+        "FirstName": "Amyna",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-11-08T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "aismail@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016053",
+        "LastName": "Jackman Kuwabara",
+        "FirstName": "Vita",
+        "Nickname": "Vita",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-08T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "vjackmankuwabara@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017113",
+        "LastName": "Jones",
+        "FirstName": "Emily",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-10-28T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ejones@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019182",
+        "LastName": "Jordan",
+        "FirstName": "Grace",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-04-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "gjordan@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019182",
+        "LastName": "Jordan",
+        "FirstName": "Grace",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-04-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "gjordan@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019183",
+        "LastName": "Jordan",
+        "FirstName": "Helena",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-09-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "hjordan@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019183",
+        "LastName": "Jordan",
+        "FirstName": "Helena",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-09-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "hjordan@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018032",
+        "LastName": "Justo",
+        "FirstName": "Isabella",
+        "Nickname": "Bella",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-12-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "bjusto@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018032",
+        "LastName": "Justo",
+        "FirstName": "Isabella",
+        "Nickname": "Bella",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-12-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "bjusto@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016054",
+        "LastName": "Kedwell",
+        "FirstName": "Madeleine",
+        "Nickname": "Blair",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-08T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "bkedwell@branksome.on.ca"
+    },
+    {
+        "StudentID": "2014236",
+        "LastName": "Kelsick-Plumb",
+        "FirstName": "Alexandra",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-05-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "akelsickplumb@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016055",
+        "LastName": "Khalaj-Zadeh",
+        "FirstName": "Tiara",
+        "Nickname": "Tiara",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-10T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "tkhalajzadeh@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018033",
+        "LastName": "Khatri",
+        "FirstName": "Kashish",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kkhatri@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020040",
+        "LastName": "Kinateder",
+        "FirstName": "Julia",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-04-22T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jkinateder@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020040",
+        "LastName": "Kinateder",
+        "FirstName": "Julia",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-04-22T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jkinateder@branksome.on.ca"
+    },
+    {
+        "StudentID": "2011082",
+        "LastName": "Kolb",
+        "FirstName": "Heather Katherine",
+        "Nickname": "Heather",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-29T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "hkolb@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016238",
+        "LastName": "Koziskie",
+        "FirstName": "Robyn",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-06-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "rkoziskie@branksome.on.ca"
+    },
+    {
+        "StudentID": "2008038",
+        "LastName": "Kukulowicz",
+        "FirstName": "Caitlyn Christine",
+        "Nickname": "Caitlyn",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-05-24T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ckukulowicz@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013209",
+        "LastName": "Kunaus",
+        "FirstName": "Emma",
+        "Nickname": "Emma",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-05-22T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ekunaus@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012043",
+        "LastName": "Kypreos",
+        "FirstName": "Anastasia",
+        "Nickname": "Annie",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-05-12T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "akypreos@branksome.on.ca"
+    },
+    {
+        "StudentID": "2011077",
+        "LastName": "Laflamme",
+        "FirstName": "Nicole Christin",
+        "Nickname": "Nicole",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "nlaflamme@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018021",
+        "LastName": "Lai",
+        "FirstName": "Pik Tung",
+        "Nickname": "Camellia",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-01-10T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "clai@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013201",
+        "LastName": "Lam",
+        "FirstName": "Carolyn",
+        "Nickname": "Dee Dee",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "dlam@branksome.on.ca"
+    },
+    {
+        "StudentID": "2014249",
+        "LastName": "Lau",
+        "FirstName": "Peony",
+        "Nickname": "Peony",
+        "Grade": "Grade 11",
+        "BIrthdate": "2006-01-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "plau@branksome.on.ca"
+    },
+    {
+        "StudentID": "2008040",
+        "LastName": "Law",
+        "FirstName": "Sophie Clara Jamieson",
+        "Nickname": "Sophie",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-21T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "slaw@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016058",
+        "LastName": "Lawson",
+        "FirstName": "Gillian",
+        "Nickname": "Gillian",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-17T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "glawson@branksome.on.ca"
+    },
+    {
+        "StudentID": "2011041",
+        "LastName": "Lee",
+        "FirstName": "Elena Ellen",
+        "Nickname": "Elena",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-04-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "elee2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019011",
+        "LastName": "Lee",
+        "FirstName": "Seungmyoung",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-09-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "slee3@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019011",
+        "LastName": "Lee",
+        "FirstName": "Seungmyoung",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-09-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "slee3@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017207",
+        "LastName": "Lee",
+        "FirstName": "Sooyeon",
+        "Nickname": "Rachel",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-05-14T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "rlee@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020041",
+        "LastName": "Lee",
+        "FirstName": "Yuna",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-01-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ylee@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020041",
+        "LastName": "Lee",
+        "FirstName": "Yuna",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-01-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ylee@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019149",
+        "LastName": "Lehnert",
+        "FirstName": "Tabitha",
+        "Nickname": "Tabby",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-08-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "tlehnert@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019149",
+        "LastName": "Lehnert",
+        "FirstName": "Tabitha",
+        "Nickname": "Tabby",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-08-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "tlehnert@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016237",
+        "LastName": "Lehoczky",
+        "FirstName": "Katherine",
+        "Nickname": "Kat",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-05-11T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "klehoczky@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010040",
+        "LastName": "Leung",
+        "FirstName": "Katherine Mei",
+        "Nickname": "Katherine",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kleung@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016000",
+        "LastName": "Li",
+        "FirstName": "Amonda",
+        "Nickname": "Amonda",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-06-29T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "ali@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010042",
+        "LastName": "Li",
+        "FirstName": "Bing Ruo Irina",
+        "Nickname": "Irina",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-09-18T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ili@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019150",
+        "LastName": "Li",
+        "FirstName": "Elizabeth",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-08T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "eli@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019150",
+        "LastName": "Li",
+        "FirstName": "Elizabeth",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-08T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "eli@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020202",
+        "LastName": "Li",
+        "FirstName": "Qiuchen",
+        "Nickname": "Crystal",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-30T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cli4@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020202",
+        "LastName": "Li",
+        "FirstName": "Qiuchen",
+        "Nickname": "Crystal",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-30T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cli4@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013210",
+        "LastName": "Lister",
+        "FirstName": "Finlay",
+        "Nickname": "Finn",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-22T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "flister@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018200",
+        "LastName": "Liu",
+        "FirstName": "Lavelle",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-05-20T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "lliu2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018200",
+        "LastName": "Liu",
+        "FirstName": "Lavelle",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-05-20T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "lliu2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019151",
+        "LastName": "Lobo",
+        "FirstName": "Savannah",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-11T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "slobo@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017230",
+        "LastName": "Lu",
+        "FirstName": "Ava",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-04-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "alu@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019195",
+        "LastName": "Luo",
+        "FirstName": "Angela",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-03-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "aluo2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019195",
+        "LastName": "Luo",
+        "FirstName": "Angela",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-03-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "aluo2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017119",
+        "LastName": "Lynn",
+        "FirstName": "Sascha",
+        "Nickname": "Sascha",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "slynn@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016236",
+        "LastName": "MacMillan",
+        "FirstName": "Rosemary",
+        "Nickname": "Rosie",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "rmacmillan@branksome.on.ca"
+    },
+    {
+        "StudentID": "2008166",
+        "LastName": "MacNeil",
+        "FirstName": "Ella Pearl",
+        "Nickname": "Ella",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-17T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "emacneil@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017120",
+        "LastName": "MacQueen",
+        "FirstName": "Stella",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-11-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "smacqueen@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017121",
+        "LastName": "Mann",
+        "FirstName": "Jamie",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-29T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jmann@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016059",
+        "LastName": "Mann",
+        "FirstName": "Maylee",
+        "Nickname": "Maylee",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mmann@branksome.on.ca"
+    },
+    {
+        "StudentID": "2011177",
+        "LastName": "Martin",
+        "FirstName": "Madeleine",
+        "Nickname": "Madeleine",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mmartin2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013203",
+        "LastName": "Mason",
+        "FirstName": "Milla",
+        "Nickname": "Milla",
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-12-04T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mmason@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017122",
+        "LastName": "Mathers",
+        "FirstName": "Alison",
+        "Nickname": "Alison",
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-11-19T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "amathers@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018022",
+        "LastName": "Maxwell",
+        "FirstName": "Oreoluwapo",
+        "Nickname": "Ore",
+        "Grade": "Grade 12",
+        "BIrthdate": "2005-08-31T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "omaxwell@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018185",
+        "LastName": "McCallum",
+        "FirstName": "Nora",
+        "Nickname": "Nora",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-24T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "nmccallum@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018185",
+        "LastName": "McCallum",
+        "FirstName": "Nora",
+        "Nickname": "Nora",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-24T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "nmccallum@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017126",
+        "LastName": "McCann",
+        "FirstName": "Miya",
+        "Nickname": "Miya",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-03-06T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mmccann@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010048",
+        "LastName": "McDaniel",
+        "FirstName": "Gabriella Elizabeth Ruth",
+        "Nickname": "Gabriella",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-10T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "gmcdaniel@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016060",
+        "LastName": "McDonald",
+        "FirstName": "Thea",
+        "Nickname": "Thea",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-24T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "tmcdonald@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017127",
+        "LastName": "McIntosh",
+        "FirstName": "Freya",
+        "Nickname": "Freya",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-18T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "fmcintosh@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016061",
+        "LastName": "McLaughlin",
+        "FirstName": "Paige",
+        "Nickname": "Paige",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-06-10T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "pmclaughlin@branksome.on.ca"
+    },
+    {
+        "StudentID": "2011086",
+        "LastName": "McOuat",
+        "FirstName": "Alexandra Neve",
+        "Nickname": "Neve",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-03-23T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "nmcouat@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010050",
+        "LastName": "McQueen",
+        "FirstName": "Molly Beatrice",
+        "Nickname": "Molly",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-28T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mmcqueen@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017129",
+        "LastName": "Mei",
+        "FirstName": "Doris Kang qing",
+        "Nickname": "Doris",
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-11-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "dmei@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009103",
+        "LastName": "Meiers",
+        "FirstName": "Rachel Morgan",
+        "Nickname": "Rachel",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-03-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "rmeiers@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017130",
+        "LastName": "Melchior",
+        "FirstName": "Olivia",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-19T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "omelchior@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019223",
+        "LastName": "Mitrakos",
+        "FirstName": "Elayna",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-04-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "emitrakos@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019223",
+        "LastName": "Mitrakos",
+        "FirstName": "Elayna",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-04-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "emitrakos@branksome.on.ca"
+    },
+    {
+        "StudentID": "2021244",
+        "LastName": "Muggiati Vaz",
+        "FirstName": "Maria",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-09T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "mmuggiativaz@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020235",
+        "LastName": "Mughal",
+        "FirstName": "Huniya",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2003-10-26T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "hmughal@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020235",
+        "LastName": "Mughal",
+        "FirstName": "Huniya",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2003-10-26T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "hmughal@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018036",
+        "LastName": "Muiruri",
+        "FirstName": "Maria",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-12T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mmuiruri2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018036",
+        "LastName": "Muiruri",
+        "FirstName": "Maria",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-12T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mmuiruri2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018038",
+        "LastName": "Murphy Ives",
+        "FirstName": "Marie Clémence",
+        "Nickname": "Clé Clé",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-25T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cmurphyives@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018038",
+        "LastName": "Murphy Ives",
+        "FirstName": "Marie Clémence",
+        "Nickname": "Clé Clé",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-25T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cmurphyives@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016125",
+        "LastName": "Musicco",
+        "FirstName": "Sofia",
+        "Nickname": "Sofia",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-12-22T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "smusicco@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012194",
+        "LastName": "Mutlu",
+        "FirstName": "Deniz",
+        "Nickname": "Deniz",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "dmutlu@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012193",
+        "LastName": "Mutlu",
+        "FirstName": "Naz",
+        "Nickname": "Naz",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "nmutlu@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019221",
+        "LastName": "Nedel",
+        "FirstName": "Luisa Caroline",
+        "Nickname": "Luisa",
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-04-29T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "lnedel@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019221",
+        "LastName": "Nedel",
+        "FirstName": "Luisa Caroline",
+        "Nickname": "Luisa",
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-04-29T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "lnedel@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010156",
+        "LastName": "Neinstein",
+        "FirstName": "Ruby Yaffa Farber",
+        "Nickname": "Ruby",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-26T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "rneinstein@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017134",
+        "LastName": "Nekic",
+        "FirstName": "Violet",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-10-05T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "vnekic@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017135",
+        "LastName": "Ni",
+        "FirstName": "Hao",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-10T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "hni@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020042",
+        "LastName": "Nikolic",
+        "FirstName": "Stella",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-12T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "snikolic@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020042",
+        "LastName": "Nikolic",
+        "FirstName": "Stella",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-12T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "snikolic@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019154",
+        "LastName": "O'Flaherty",
+        "FirstName": "Katharine",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-03-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "koflaherty@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019154",
+        "LastName": "O'Flaherty",
+        "FirstName": "Katharine",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-03-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "koflaherty@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017010",
+        "LastName": "O'Reilly",
+        "FirstName": "Lily",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2004-11-18T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "loreilly@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009060",
+        "LastName": "Osborne",
+        "FirstName": "Alexandra Kathryn",
+        "Nickname": "Alex",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "aosborne@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012044",
+        "LastName": "Ouellette",
+        "FirstName": "Lianne",
+        "Nickname": "Lianne",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-05T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "louellette@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016232",
+        "LastName": "Palmer",
+        "FirstName": "Kira",
+        "Nickname": "Kira",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-04-18T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kpalmer@branksome.on.ca"
+    },
+    {
+        "StudentID": "2015205",
+        "LastName": "Parkhill",
+        "FirstName": "Claire",
+        "Nickname": "Claire",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-10-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cparkhill@branksome.on.ca"
+    },
+    {
+        "StudentID": "2015205",
+        "LastName": "Parkhill",
+        "FirstName": "Claire",
+        "Nickname": "Claire",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-10-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cparkhill@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016231",
+        "LastName": "Parsons",
+        "FirstName": "Caitlin",
+        "Nickname": "Caitlin",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-23T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cparsons2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012036",
+        "LastName": "Partridge",
+        "FirstName": "Avery",
+        "Nickname": "Avery",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-04-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "apartridge@branksome.on.ca"
+    },
+    {
+        "StudentID": "2008024",
+        "LastName": "Penny",
+        "FirstName": "Emily Anne Simmons",
+        "Nickname": "Emily",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "epenny@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016230",
+        "LastName": "Perry",
+        "FirstName": "Juliette",
+        "Nickname": "Juliette",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-24T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jperry@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018039",
+        "LastName": "Piatek",
+        "FirstName": "Serena",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "spiatek@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018039",
+        "LastName": "Piatek",
+        "FirstName": "Serena",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "spiatek@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016062",
+        "LastName": "Pinkney",
+        "FirstName": "Georgiana Grace",
+        "Nickname": "Grace",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "gpinkney@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020043",
+        "LastName": "Poon",
+        "FirstName": "Faith",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-12T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "fpoon@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020043",
+        "LastName": "Poon",
+        "FirstName": "Faith",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-12T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "fpoon@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016228",
+        "LastName": "Profiti",
+        "FirstName": "Julia",
+        "Nickname": "Julia",
+        "Grade": "Grade 12",
+        "BIrthdate": "2005-02-17T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jprofiti@branksome.on.ca"
+    },
+    {
+        "StudentID": "2011011",
+        "LastName": "Quinn",
+        "FirstName": "Cecilia Margaret Maria",
+        "Nickname": "Cecilia",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-09-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cquinn@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017226",
+        "LastName": "Rakochevich",
+        "FirstName": "Alexa Jane",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-04-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "arakochevich@branksome.on.ca"
+    },
+    {
+        "StudentID": "2008081",
+        "LastName": "Reale",
+        "FirstName": "Ava Irene",
+        "Nickname": "Ava",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-26T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "areale@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016269",
+        "LastName": "Rees",
+        "FirstName": "Alexandra",
+        "Nickname": "Alexa",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-20T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "arees@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013204",
+        "LastName": "Reid",
+        "FirstName": "Ainsley",
+        "Nickname": "Ainsley",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-11-03T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "areid@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013244",
+        "LastName": "Rioux",
+        "FirstName": "Julianne",
+        "Nickname": "Julianne",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-08-05T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jrioux@branksome.on.ca"
+    },
+    {
+        "StudentID": "2008041",
+        "LastName": "Ritchie",
+        "FirstName": "Alexandra Lilly Caroline Bell",
+        "Nickname": "Lilly",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-04-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "lritchie@branksome.on.ca"
+    },
+    {
+        "StudentID": "2011002",
+        "LastName": "Roberts",
+        "FirstName": "Samantha Ji-Yoon",
+        "Nickname": "Sammie",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-19T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "sroberts@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017139",
+        "LastName": "Robinson",
+        "FirstName": "Ella",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-01-29T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "erobinson@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017140",
+        "LastName": "Rorabeck",
+        "FirstName": "Sophie",
+        "Nickname": "Sophie",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-28T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "srorabeck@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017141",
+        "LastName": "Ross",
+        "FirstName": "Isabella",
+        "Nickname": "Issy",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-21T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "iross@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016226",
+        "LastName": "Rotherham",
+        "FirstName": "Ella",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-24T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "erotherham@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016226",
+        "LastName": "Rotherham",
+        "FirstName": "Ella",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-11-24T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "erotherham@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010071",
+        "LastName": "Rudson",
+        "FirstName": "Jordyn Nicole",
+        "Nickname": "Jordyn",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-05-27T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jrudson@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012191",
+        "LastName": "Rusaw",
+        "FirstName": "Isabella",
+        "Nickname": "Bella",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-01T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "brusaw@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016064",
+        "LastName": "Russett",
+        "FirstName": "Genevieve",
+        "Nickname": "Genevieve",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "grussett@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016064",
+        "LastName": "Russett",
+        "FirstName": "Genevieve",
+        "Nickname": "Genevieve",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "grussett@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017142",
+        "LastName": "Ruus",
+        "FirstName": "Isabelle",
+        "Nickname": "Izzy",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-10-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "iruus@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009070",
+        "LastName": "Salahuddin",
+        "FirstName": "Isra Sabiha",
+        "Nickname": "Isra",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-23T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "isalahuddin2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009071",
+        "LastName": "Salahuddin",
+        "FirstName": "Zoha Khalida",
+        "Nickname": "Zoha",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-23T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "zsalahuddin@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012047",
+        "LastName": "Salewicz",
+        "FirstName": "Amelia",
+        "Nickname": "Amelia",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-17T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "asalewicz@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017143",
+        "LastName": "Schachter",
+        "FirstName": "Samantha",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2006-01-14T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "sschachter@branksome.on.ca"
+    },
+    {
+        "StudentID": "2015201",
+        "LastName": "Schiedel",
+        "FirstName": "Charlotte",
+        "Nickname": "Charley",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "cschiedel@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018007",
+        "LastName": "Schreiweis",
+        "FirstName": "Sophie",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-30T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "sschreiweis@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018007",
+        "LastName": "Schreiweis",
+        "FirstName": "Sophie",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-30T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "sschreiweis@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009074",
+        "LastName": "Senadeera",
+        "FirstName": "Chrishella Venushi",
+        "Nickname": "Chrishella",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "csenadeera@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013211",
+        "LastName": "Senst",
+        "FirstName": "Parker",
+        "Nickname": "Parker",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-06-10T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "psenst@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010074",
+        "LastName": "Serbinis",
+        "FirstName": "Zoe Grace Adams",
+        "Nickname": "Zoe",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-05-17T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "zserbinis@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017144",
+        "LastName": "Shah",
+        "FirstName": "Nia",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-01-23T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "nshah@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016224",
+        "LastName": "Shatilla",
+        "FirstName": "Lauren",
+        "Nickname": "Lauren",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-05T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "lshatilla@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010175",
+        "LastName": "Shepherd",
+        "FirstName": "Sophie",
+        "Nickname": "Sophie",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-08T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "sshepherd@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009115",
+        "LastName": "Sheppard-Conlon",
+        "FirstName": "Katherine Ella",
+        "Nickname": "Ella",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-20T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "esheppardconlon@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016223",
+        "LastName": "Simopoulos",
+        "FirstName": "Jasmin",
+        "Nickname": "Jasmin",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jsimopoulos@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010139",
+        "LastName": "Singer",
+        "FirstName": "Morgan Lily",
+        "Nickname": "Morgan",
+        "Grade": "Grade 12",
+        "BIrthdate": "2005-02-15T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "msinger@branksome.on.ca"
+    },
+    {
+        "StudentID": "2009117",
+        "LastName": "Skurka",
+        "FirstName": "Riley Madison",
+        "Nickname": "Riley",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-08-14T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "rskurka@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019034",
+        "LastName": "Song",
+        "FirstName": "Audrey",
+        "Nickname": "Audrey",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-04-01T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "asong@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019196",
+        "LastName": "Song",
+        "FirstName": "Marie",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-01-25T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "msong2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019196",
+        "LastName": "Song",
+        "FirstName": "Marie",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-01-25T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "msong2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013205",
+        "LastName": "Stevenson",
+        "FirstName": "Kate",
+        "Nickname": "Kate",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-11-05T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kstevenson@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016222",
+        "LastName": "Stirton",
+        "FirstName": "Eleanor",
+        "Nickname": "Ellie",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-10-14T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "estirton@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017146",
+        "LastName": "Stolberg",
+        "FirstName": "Shayla",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-01-23T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "sstolberg@branksome.on.ca"
+    },
+    {
+        "StudentID": "2021151",
+        "LastName": "Su",
+        "FirstName": "Natalie",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-25T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "nsu@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017155",
+        "LastName": "Suleman",
+        "FirstName": "Sofia",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-06T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ssuleman@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018041",
+        "LastName": "Tabassum",
+        "FirstName": "Lamia",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-05-06T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ltabassum@branksome.on.ca"
+    },
+    {
+        "StudentID": "2014295",
+        "LastName": "Taylor",
+        "FirstName": "Brooke",
+        "Nickname": "Brooke",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-20T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "btaylor@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018042",
+        "LastName": "Taylor",
+        "FirstName": "Teya",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ttaylor@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018042",
+        "LastName": "Taylor",
+        "FirstName": "Teya",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-03-13T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ttaylor@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020216",
+        "LastName": "Tell",
+        "FirstName": "Mariam",
+        "Nickname": "Mare",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-01-10T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "mtell@branksome.on.ca"
+    },
+    {
+        "StudentID": "2020216",
+        "LastName": "Tell",
+        "FirstName": "Mariam",
+        "Nickname": "Mare",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-01-10T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "mtell@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018025",
+        "LastName": "Terpin",
+        "FirstName": "Mikaela",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-09-01T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "mterpin@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012037",
+        "LastName": "Tripp",
+        "FirstName": "Ellie",
+        "Nickname": "Ellie",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-05-06T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "etripp@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017149",
+        "LastName": "Turner",
+        "FirstName": "Avery",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-06-16T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "aturner@branksome.on.ca"
+    },
+    {
+        "StudentID": "2014237",
+        "LastName": "Valentine",
+        "FirstName": "Katherine",
+        "Nickname": "Katherine",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-05-09T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kvalentine@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016066",
+        "LastName": "Wallace",
+        "FirstName": "Kiera",
+        "Nickname": "Kiera",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-05-20T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kwallace@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017152",
+        "LastName": "Warren",
+        "FirstName": "Stephanie",
+        "Nickname": "Stephanie",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-12-30T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "swarren2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2016221",
+        "LastName": "Watson",
+        "FirstName": "Sophia",
+        "Nickname": "Sophia",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-12-20T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "swatson@branksome.on.ca"
+    },
+    {
+        "StudentID": "2012038",
+        "LastName": "Williams",
+        "FirstName": "Emma",
+        "Nickname": "Emma",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-10-07T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "ewilliams2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2010089",
+        "LastName": "Wolfman",
+        "FirstName": "Hailey Brynn",
+        "Nickname": "Hailey",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-07-17T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "hwolfman@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018001",
+        "LastName": "Worth",
+        "FirstName": "Laryssa",
+        "Nickname": "Lara",
+        "Grade": "Grade 12",
+        "BIrthdate": "2003-12-23T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "lworth@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019193",
+        "LastName": "Yan",
+        "FirstName": "Feiyu",
+        "Nickname": "Adele",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-20T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "ayan@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018010",
+        "LastName": "Yang",
+        "FirstName": "Janice",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-02-26T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jyang@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019035",
+        "LastName": "Yang",
+        "FirstName": "Miranda (Yi Nuo)",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2005-05-26T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "myang@branksome.on.ca"
+    },
+    {
+        "StudentID": "2019035",
+        "LastName": "Yang",
+        "FirstName": "Miranda (Yi Nuo)",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2005-05-26T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "myang@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018004",
+        "LastName": "Yang",
+        "FirstName": "Xiaoyue",
+        "Nickname": "Natasha",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-06-16T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "nyang2@branksome.on.ca"
+    },
+    {
+        "StudentID": "2013207",
+        "LastName": "Young",
+        "FirstName": "Katherine",
+        "Nickname": "Katie",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-02-02T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "kyoung@branksome.on.ca"
+    },
+    {
+        "StudentID": "2021150",
+        "LastName": "Zaki",
+        "FirstName": "Julia",
+        "Nickname": null,
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-10-19T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "jzaki@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018195",
+        "LastName": "Zawadzki",
+        "FirstName": "Sophie",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2003-11-10T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "szawadzki@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018005",
+        "LastName": "Zeng",
+        "FirstName": "Junjing",
+        "Nickname": "Eva",
+        "Grade": "Grade 12",
+        "BIrthdate": "2004-08-01T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "ezeng@branksome.on.ca"
+    },
+    {
+        "StudentID": "2017203",
+        "LastName": "Zhang",
+        "FirstName": "Youwen",
+        "Nickname": "Molly",
+        "Grade": "Grade 11",
+        "BIrthdate": "2005-07-20T00:00:00",
+        "BoardingOrDay": "B",
+        "EMail": "mzhang@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018047",
+        "LastName": "Zhou",
+        "FirstName": "Catherine",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2005-02-18T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "czhou3@branksome.on.ca"
+    },
+    {
+        "StudentID": "2018047",
+        "LastName": "Zhou",
+        "FirstName": "Catherine",
+        "Nickname": null,
+        "Grade": "Grade 12",
+        "BIrthdate": "2005-02-18T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "czhou3@branksome.on.ca"
+    },
+    {
+        "StudentID": "2015140",
+        "LastName": "Zhou",
+        "FirstName": "Cathy",
+        "Nickname": "Cathy",
+        "Grade": "Grade 12",
+        "BIrthdate": "2003-11-10T00:00:00",
+        "BoardingOrDay": "D",
+        "EMail": "czhou2@branksome.on.ca"
+    }
+]
